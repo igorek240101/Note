@@ -1,0 +1,16 @@
+C:\Users\Igor\source\repos\Note\Note\bin\Debug\net5.0\Note.exe
+C:\Users\Igor\source\repos\Note\Note\bin\Debug\net5.0\Note.deps.json
+C:\Users\Igor\source\repos\Note\Note\bin\Debug\net5.0\Note.runtimeconfig.json
+C:\Users\Igor\source\repos\Note\Note\bin\Debug\net5.0\Note.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\Note\Note\bin\Debug\net5.0\Note.dll
+C:\Users\Igor\source\repos\Note\Note\bin\Debug\net5.0\ref\Note.dll
+C:\Users\Igor\source\repos\Note\Note\bin\Debug\net5.0\Note.pdb
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\Note.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\Note.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\Note.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\Note.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\Note.dll
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\ref\Note.dll
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\Note.pdb
+C:\Users\Igor\source\repos\Note\Note\obj\Debug\net5.0\Note.genruntimeconfig.cache
